@@ -1,0 +1,7 @@
+name: Node Form Multistep
+type: module
+description: Provides a method for turning node creation forms into multistep forms.
+core: 8.x
+package: Content
+dependencies:
+  - node
